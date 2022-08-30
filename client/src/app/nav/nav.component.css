@@ -1,0 +1,13 @@
+.dropdown-toggle{
+    
+    cursor:pointer;
+}
+
+.dropdown-menu{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.nav-item{
+    cursor: pointer;
+}
